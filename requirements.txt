@@ -1,3 +1,4 @@
 requests
 bs4
 telegram
+pip install telegram.ext
